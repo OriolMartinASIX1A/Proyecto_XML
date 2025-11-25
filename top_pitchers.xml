@@ -1,0 +1,72 @@
+<pitchers>
+    <pitcher>
+        <nombre>Gerrit Cole</nombre>
+        <equipo>New York Yankees</equipo>
+        <era>2.55</era>
+        <whip>1.03</whip>
+        <strikeouts>276</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Max Scherzer</nombre>
+        <equipo>New York Mets</equipo>
+        <era>2.79</era>
+        <whip>1.07</whip>
+        <strikeouts>281</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Jacob deGrom</nombre>
+        <equipo>Texas Rangers</equipo>
+        <era>2.45</era>
+        <whip>0.96</whip>
+        <strikeouts>255</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Corbin Burnes</nombre>
+        <equipo>Milwaukee Brewers</equipo>
+        <era>2.86</era>
+        <whip>0.98</whip>
+        <strikeouts>272</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Justin Verlander</nombre>
+        <equipo>Houston Astros</equipo>
+        <era>2.88</era>
+        <whip>1.05</whip>
+        <strikeouts>245</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Shane Bieber</nombre>
+        <equipo>Cleveland Guardians</equipo>
+        <era>3.10</era>
+        <whip>1.12</whip>
+        <strikeouts>230</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Walker Buehler</nombre>
+        <equipo>Los Angeles Dodgers</equipo>
+        <era>2.95</era>
+        <whip>1.04</whip>
+        <strikeouts>260</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Brandon Woodruff</nombre>
+        <equipo>Milwaukee Brewers</equipo>
+        <era>3.12</era>
+        <whip>1.09</whip>
+        <strikeouts>240</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Walker Buehler</nombre>
+        <equipo>Los Angeles Dodgers</equipo>
+        <era>2.95</era>
+        <whip>1.04</whip>
+        <strikeouts>260</strikeouts>
+    </pitcher>
+    <pitcher>
+        <nombre>Lucas Giolito</nombre>
+        <equipo>Chicago White Sox</equipo>
+        <era>3.05</era>
+        <whip>1.08</whip>
+        <strikeouts>238</strikeouts>
+    </pitcher>
+</pitchers>

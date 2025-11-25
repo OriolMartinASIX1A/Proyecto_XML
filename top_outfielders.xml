@@ -1,0 +1,72 @@
+<jugadores>
+    <jugador>
+        <nombre>Kyle Stowers</nombre>
+        <equipo>Miami Marlins</equipo>
+        <max_exit_velocity>113.7</max_exit_velocity>
+        <avg_exit_velocity>91.1</avg_exit_velocity>
+        <distance>395</distance>
+    </jugador>
+    <jugador>
+        <nombre>Riley Greene</nombre>
+        <equipo>Detroit Tigers</equipo>
+        <max_exit_velocity>115.1</max_exit_velocity>
+        <avg_exit_velocity>89.9</avg_exit_velocity>
+        <distance>397</distance>
+    </jugador>
+    <jugador>
+        <nombre>Ramón Laureano</nombre>
+        <equipo>San Diego Padres</equipo>
+        <max_exit_velocity>112.7</max_exit_velocity>
+        <avg_exit_velocity>90.3</avg_exit_velocity>
+        <distance>398</distance>
+    </jugador>
+    <jugador>
+        <nombre>Jo Adell</nombre>
+        <equipo>Los Angeles Angels</equipo>
+        <max_exit_velocity>115.7</max_exit_velocity>
+        <avg_exit_velocity>91.7</avg_exit_velocity>
+        <distance>411</distance>
+    </jugador>
+    <jugador>
+        <nombre>Byron Buxton</nombre>
+        <equipo>Minnesota Twins</equipo>
+        <max_exit_velocity>114.0</max_exit_velocity>
+        <avg_exit_velocity>92.5</avg_exit_velocity>
+        <distance>406</distance>
+    </jugador>
+    <jugador>
+        <nombre>Oneil Cruz</nombre>
+        <equipo>Pittsburgh Pirates</equipo>
+        <max_exit_velocity>122.9</max_exit_velocity>
+        <avg_exit_velocity>95.8</avg_exit_velocity>
+        <distance>410</distance>
+    </jugador>
+    <jugador>
+        <nombre>Aaron Judge</nombre>
+        <equipo>New York Yankees</equipo>
+        <max_exit_velocity>118.1</max_exit_velocity>
+        <avg_exit_velocity>95.4</avg_exit_velocity>
+        <distance>408</distance>
+    </jugador>
+    <jugador>
+        <nombre>Juan Soto</nombre>
+        <equipo>New York Mets</equipo>
+        <max_exit_velocity>115.0</max_exit_velocity>
+        <avg_exit_velocity>93.8</avg_exit_velocity>
+        <distance>400</distance>
+    </jugador>
+    <jugador>
+        <nombre>Mickey Moniak</nombre>
+        <equipo>Colorado Rockies</equipo>
+        <max_exit_velocity>111.8</max_exit_velocity>
+        <avg_exit_velocity>89.7</avg_exit_velocity>
+        <distance>411</distance>
+    </jugador>
+    <jugador>
+        <nombre>Corbin Carroll</nombre>
+        <equipo>Arizona Diamondbacks</equipo>
+        <max_exit_velocity>115.8</max_exit_velocity>
+        <avg_exit_velocity>92.1</avg_exit_velocity>
+        <distance>405</distance>
+    </jugador>
+</jugadores>

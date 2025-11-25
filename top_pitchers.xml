@@ -1,62 +1,73 @@
-<pitchers>
-    <pitcher>
-        <nombre>Tarik Skubal</nombre>
-        <equipo>Detroit Tigers</equipo>
-        <era>3.02</era>
-        <strikeouts>210</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Zack Wheeler</nombre>
-        <equipo>Philadelphia Phillies</equipo>
-        <era>2.95</era>
-        <strikeouts>220</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Paul Skenes</nombre>
-        <equipo>St. Louis Cardinals</equipo>
-        <era>2.85</era>
-        <strikeouts>198</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Jacob deGrom</nombre>
-        <equipo>Texas Rangers</equipo>
-        <era>2.45</era>
-        <strikeouts>255</strikeouts>
-    </pitcher>
-    <pitcher>
+<?xml version="1.0" encoding="UTF-8"?>
+<top_lanzadores>
+    <lanzador>
         <nombre>Garrett Crochet</nombre>
-        <equipo>Chicago White Sox</equipo>
-        <era>3.10</era>
-        <strikeouts>180</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Ranger Suárez</nombre>
-        <equipo>Philadelphia Phillies</equipo>
-        <era>3.05</era>
-        <strikeouts>190</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Yoshinobu Yamamoto</nombre>
-        <equipo>Orix Buffaloes</equipo>
-        <era>2.90</era>
-        <strikeouts>205</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Shohei Ohtani</nombre>
-        <equipo>Los Angeles Angels</equipo>
-        <era>2.85</era>
-        <strikeouts>220</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Chris Sale</nombre>
-        <equipo>Boston Red Sox</equipo>
-        <era>3.00</era>
+        <equipo>BOS</equipo>
+        <era>2.59</era>
+        <strikeouts>255</strikeouts>
+        <base_por_bolas>46</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Tarik Skubal</nombre>
+        <equipo>DET</equipo>
+        <era>2.21</era>
+        <strikeouts>241</strikeouts>
+        <base_por_bolas>33</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Logan Webb</nombre>
+        <equipo>SF</equipo>
+        <era>3.22</era>
+        <strikeouts>224</strikeouts>
+        <base_por_bolas>46</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Jesús Luzardo</nombre>
+        <equipo>PHI</equipo>
+        <era>3.92</era>
+        <strikeouts>216</strikeouts>
+        <base_por_bolas>57</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Paul Skenes</nombre>
+        <equipo>PIT</equipo>
+        <era>1.97</era>
+        <strikeouts>216</strikeouts>
+        <base_por_bolas>42</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Dylan Cease</nombre>
+        <equipo>SD</equipo>
+        <era>4.55</era>
         <strikeouts>215</strikeouts>
-    </pitcher>
-    <pitcher>
-        <nombre>Spencer Strider</nombre>
-        <equipo>Atlanta Braves</equipo>
-        <era>2.88</era>
-        <strikeouts>230</strikeouts>
-    </pitcher>
-</pitchers>
+        <base_por_bolas>71</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Cristopher Sánchez</nombre>
+        <equipo>PHI</equipo>
+        <era>2.50</era>
+        <strikeouts>212</strikeouts>
+        <base_por_bolas>44</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Hunter Brown</nombre>
+        <equipo>HOU</equipo>
+        <era>2.43</era>
+        <strikeouts>206</strikeouts>
+        <base_por_bolas>57</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Freddy Peralta</nombre>
+        <equipo>MIL</equipo>
+        <era>2.70</era>
+        <strikeouts>204</strikeouts>
+        <base_por_bolas>66</base_por_bolas>
+    </lanzador>
+    <lanzador>
+        <nombre>Carlos Rodón</nombre>
+        <equipo>NYY</equipo>
+        <era>3.09</era>
+        <strikeouts>203</strikeouts>
+        <base_por_bolas>73</base_por_bolas>
+    </lanzador>
+</top_lanzadores>

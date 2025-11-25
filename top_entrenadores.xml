@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<top_entrenadores>
+    <entrenador>
+        <nombre>Torey Lovullo</nombre>
+        <equipo>Arizona Diamondbacks</equipo>
+        <experiencia>5</experiencia>
+        <victorias>112</victorias>
+        <derrotas>102</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Brian Snitker</nombre>
+        <equipo>Atlanta Braves</equipo>
+        <experiencia>9</experiencia>
+        <victorias>112</victorias>
+        <derrotas>98</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Alex Cora</nombre>
+        <equipo>Baltimore Orioles</equipo>
+        <experiencia>7</experiencia>
+        <victorias>112</victorias>
+        <derrotas>98</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Craig Counsell</nombre>
+        <equipo>Boston Red Sox</equipo>
+        <experiencia>10</experiencia>
+        <victorias>51</victorias>
+        <derrotas>57</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Bud Black</nombre>
+        <equipo>Colorado Rockies</equipo>
+        <experiencia>17</experiencia>
+        <victorias>76</victorias>
+        <derrotas>138</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Dave Roberts</nombre>
+        <equipo>Los Angeles Angels</equipo>
+        <experiencia>9</experiencia>
+        <victorias>63</victorias>
+        <derrotas>44</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Skip Schumaker</nombre>
+        <equipo>Los Angeles Dodgers</equipo>
+        <experiencia>2</experiencia>
+        <victorias>39</victorias>
+        <derrotas>67</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Aaron Boone</nombre>
+        <equipo>New York Yankees</equipo>
+        <experiencia>7</experiencia>
+        <victorias>126</victorias>
+        <derrotas>90</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Mark Kotsay</nombre>
+        <equipo>New York Mets</equipo>
+        <experiencia>3</experiencia>
+        <victorias>88</victorias>
+        <derrotas>128</derrotas>
+    </entrenador>
+    <entrenador>
+        <nombre>Mike Shildt</nombre>
+        <equipo>San Diego Padres</equipo>
+        <experiencia>8</experiencia>
+        <victorias>114</victorias>
+        <derrotas>102</derrotas>
+    </entrenador>
+</top_entrenadores>

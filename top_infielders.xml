@@ -1,0 +1,72 @@
+<top_infielders>
+    <jugador>
+        <nombre>Pete Alonso</nombre>
+        <equipo>New York Mets</equipo>
+        <max_exit_velocity>115.9</max_exit_velocity>
+        <avg_exit_velocity>93.5</avg_exit_velocity>
+        <distance>408</distance>
+    </jugador>
+    <jugador>
+        <nombre>Ketel Marte</nombre>
+        <equipo>Arizona Diamondbacks</equipo>
+        <max_exit_velocity>119.6</max_exit_velocity>
+        <avg_exit_velocity>90.8</avg_exit_velocity>
+        <distance>407</distance>
+    </jugador>
+    <jugador>
+        <nombre>Corey Seager</nombre>
+        <equipo>Texas Rangers</equipo>
+        <max_exit_velocity>112.4</max_exit_velocity>
+        <avg_exit_velocity>92.9</avg_exit_velocity>
+        <distance>400</distance>
+    </jugador>
+    <jugador>
+        <nombre>Junior Caminero</nombre>
+        <equipo>Tampa Bay Rays</equipo>
+        <max_exit_velocity>116.7</max_exit_velocity>
+        <avg_exit_velocity>92.4</avg_exit_velocity>
+        <distance>392</distance>
+    </jugador>
+    <jugador>
+        <nombre>Cal Raleigh</nombre>
+        <equipo>Seattle Mariners</equipo>
+        <max_exit_velocity>114.7</max_exit_velocity>
+        <avg_exit_velocity>91.3</avg_exit_velocity>
+        <distance>392</distance>
+    </jugador>
+    <jugador>
+        <nombre>Jazz Chisholm Jr.</nombre>
+        <equipo>Miami Marlins</equipo>
+        <max_exit_velocity>112.2</max_exit_velocity>
+        <avg_exit_velocity>89.0</avg_exit_velocity>
+        <distance>387</distance>
+    </jugador>
+    <jugador>
+        <nombre>Bobby Witt Jr.</nombre>
+        <equipo>Kansas City Royals</equipo>
+        <max_exit_velocity>117.5</max_exit_velocity>
+        <avg_exit_velocity>93.3</avg_exit_velocity>
+        <distance>411</distance>
+    </jugador>
+    <jugador>
+        <nombre>Austin Riley</nombre>
+        <equipo>Atlanta Braves</equipo>
+        <max_exit_velocity>113.9</max_exit_velocity>
+        <avg_exit_velocity>92.3</avg_exit_velocity>
+        <distance>413</distance>
+    </jugador>
+    <jugador>
+        <nombre>Salvador Perez</nombre>
+        <equipo>Kansas City Royals</equipo>
+        <max_exit_velocity>114.8</max_exit_velocity>
+        <avg_exit_velocity>90.0</avg_exit_velocity>
+        <distance>399</distance>
+    </jugador>
+    <jugador>
+        <nombre>Hunter Goodman</nombre>
+        <equipo>Colorado Rockies</equipo>
+        <max_exit_velocity>116.2</max_exit_velocity>
+        <avg_exit_velocity>90.8</avg_exit_velocity>
+        <distance>409</distance>
+    </jugador>
+</top_infielders>

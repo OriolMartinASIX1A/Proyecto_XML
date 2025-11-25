@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<top_bateadores>
+    <bateador>
+        <nombre>Cal Raleigh</nombre>
+        <equipo>SEA</equipo>
+        <hits>110</hits>
+        <dobles>0</dobles>
+        <triples>60</triples>
+        <hr>24</hr>
+        <carreras>147</carreras>
+        <avg>.247</avg>
+    </bateador>
+    <bateador>
+        <nombre>Kyle Schwarber</nombre>
+        <equipo>PHI</equipo>
+        <hits>111</hits>
+        <dobles>2</dobles>
+        <triples>56</triples>
+        <hr>23</hr>
+        <carreras>145</carreras>
+        <avg>.240</avg>
+    </bateador>
+    <bateador>
+        <nombre>Shohei Ohtani</nombre>
+        <equipo>LAD</equipo>
+        <hits>146</hits>
+        <dobles>9</dobles>
+        <triples>55</triples>
+        <hr>25</hr>
+        <carreras>172</carreras>
+        <avg>.282</avg>
+    </bateador>
+    <bateador>
+        <nombre>Aaron Judge</nombre>
+        <equipo>NYY</equipo>
+        <hits>137</hits>
+        <dobles>2</dobles>
+        <triples>53</triples>
+        <hr>30</hr>
+        <carreras>179</carreras>
+        <avg>.331</avg>
+    </bateador>
+    <bateador>
+        <nombre>Eugenio Suárez</nombre>
+        <equipo>SEA</equipo>
+        <hits>91</hits>
+        <dobles>0</dobles>
+        <triples>49</triples>
+        <hr>28</hr>
+        <carreras>134</carreras>
+        <avg>.228</avg>
+    </bateador>
+    <bateador>
+        <nombre>Junior Caminero</nombre>
+        <equipo>TB</equipo>
+        <hits>93</hits>
+        <dobles>0</dobles>
+        <triples>45</triples>
+        <hr>28</hr>
+        <carreras>159</carreras>
+        <avg>.264</avg>
+    </bateador>
+    <bateador>
+        <nombre>Juan Soto</nombre>
+        <equipo>NYM</equipo>
+        <hits>120</hits>
+        <dobles>1</dobles>
+        <triples>43</triples>
+        <hr>20</hr>
+        <carreras>152</carreras>
+        <avg>.263</avg>
+    </bateador>
+    <bateador>
+        <nombre>Pete Alonso</nombre>
+        <equipo>NYM</equipo>
+        <hits>87</hits>
+        <dobles>1</dobles>
+        <triples>38</triples>
+        <hr>41</hr>
+        <carreras>170</carreras>
+        <avg>.272</avg>
+    </bateador>
+    <bateador>
+        <nombre>Jo Adell</nombre>
+        <equipo>LAA</equipo>
+        <hits>63</hits>
+        <dobles>1</dobles>
+        <triples>37</triples>
+        <hr>18</hr>
+        <carreras>124</carreras>
+        <avg>.236</avg>
+    </bateador>
+    <bateador>
+        <nombre>Riley Greene</nombre>
+        <equipo>DET</equipo>
+        <hits>84</hits>
+        <dobles>1</dobles>
+        <triples>36</triples>
+        <hr>31</hr>
+        <carreras>155</carreras>
+        <avg>.258</avg>
+    </bateador>
+</top_bateadores>

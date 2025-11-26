@@ -2,71 +2,160 @@
     <jugador>
         <nombre>Pete Alonso</nombre>
         <equipo>New York Mets</equipo>
-        <max_exit_velocity>115.9</max_exit_velocity>
-        <avg_exit_velocity>93.5</avg_exit_velocity>
-        <distance>408</distance>
+        <posicion>1B</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>115.9</max_exit_velocity>
+            <avg_exit_velocity>93.5</avg_exit_velocity>
+            <distance>408</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>-5</oaa>
+            <arm_strength>83</arm_strength>
+            <double_play_pct>55</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Ketel Marte</nombre>
         <equipo>Arizona Diamondbacks</equipo>
-        <max_exit_velocity>119.6</max_exit_velocity>
-        <avg_exit_velocity>90.8</avg_exit_velocity>
-        <distance>407</distance>
+        <posicion>2B</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>119.6</max_exit_velocity>
+            <avg_exit_velocity>90.8</avg_exit_velocity>
+            <distance>407</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>2</oaa>
+            <arm_strength>85</arm_strength>
+            <double_play_pct>61</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Corey Seager</nombre>
         <equipo>Texas Rangers</equipo>
-        <max_exit_velocity>112.4</max_exit_velocity>
-        <avg_exit_velocity>92.9</avg_exit_velocity>
-        <distance>400</distance>
+        <posicion>SS</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>112.4</max_exit_velocity>
+            <avg_exit_velocity>92.9</avg_exit_velocity>
+            <distance>400</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>6</oaa>
+            <arm_strength>87</arm_strength>
+            <double_play_pct>66</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Junior Caminero</nombre>
         <equipo>Tampa Bay Rays</equipo>
-        <max_exit_velocity>116.7</max_exit_velocity>
-        <avg_exit_velocity>92.4</avg_exit_velocity>
-        <distance>392</distance>
+        <posicion>3B</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>116.7</max_exit_velocity>
+            <avg_exit_velocity>92.4</avg_exit_velocity>
+            <distance>392</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>1</oaa>
+            <arm_strength>92</arm_strength>
+            <double_play_pct>58</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Cal Raleigh</nombre>
         <equipo>Seattle Mariners</equipo>
-        <max_exit_velocity>114.7</max_exit_velocity>
-        <avg_exit_velocity>91.3</avg_exit_velocity>
-        <distance>392</distance>
+        <posicion>C</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>114.7</max_exit_velocity>
+            <avg_exit_velocity>91.3</avg_exit_velocity>
+            <distance>392</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <caught_stealing_pct>23</caught_stealing_pct>
+            <pop_time>1.97</pop_time>
+            <framing_runs>7</framing_runs>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Jazz Chisholm Jr.</nombre>
         <equipo>Miami Marlins</equipo>
-        <max_exit_velocity>112.2</max_exit_velocity>
-        <avg_exit_velocity>89.0</avg_exit_velocity>
-        <distance>387</distance>
+        <posicion>2B</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>112.2</max_exit_velocity>
+            <avg_exit_velocity>89.0</avg_exit_velocity>
+            <distance>387</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>4</oaa>
+            <arm_strength>93</arm_strength>
+            <double_play_pct>64</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Bobby Witt Jr.</nombre>
         <equipo>Kansas City Royals</equipo>
-        <max_exit_velocity>117.5</max_exit_velocity>
-        <avg_exit_velocity>93.3</avg_exit_velocity>
-        <distance>411</distance>
+        <posicion>SS</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>117.5</max_exit_velocity>
+            <avg_exit_velocity>93.3</avg_exit_velocity>
+            <distance>411</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>14</oaa>
+            <arm_strength>94</arm_strength>
+            <double_play_pct>69</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Austin Riley</nombre>
         <equipo>Atlanta Braves</equipo>
-        <max_exit_velocity>113.9</max_exit_velocity>
-        <avg_exit_velocity>92.3</avg_exit_velocity>
-        <distance>413</distance>
+        <posicion>3B</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>113.9</max_exit_velocity>
+            <avg_exit_velocity>92.3</avg_exit_velocity>
+            <distance>413</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>-1</oaa>
+            <arm_strength>86</arm_strength>
+            <double_play_pct>57</double_play_pct>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Salvador Perez</nombre>
         <equipo>Kansas City Royals</equipo>
-        <max_exit_velocity>114.8</max_exit_velocity>
-        <avg_exit_velocity>90.0</avg_exit_velocity>
-        <distance>399</distance>
+        <posicion>C</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>114.8</max_exit_velocity>
+            <avg_exit_velocity>90.0</avg_exit_velocity>
+            <distance>399</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <caught_stealing_pct>18</caught_stealing_pct>
+            <pop_time>2.02</pop_time>
+            <framing_runs>-6</framing_runs>
+        </defensa>
     </jugador>
+
     <jugador>
         <nombre>Hunter Goodman</nombre>
         <equipo>Colorado Rockies</equipo>
-        <max_exit_velocity>116.2</max_exit_velocity>
-        <avg_exit_velocity>90.8</avg_exit_velocity>
-        <distance>409</distance>
+        <posicion>C</posicion>
+        <estadisticas_bateo>
+            <max_exit_velocity>116.2</max_exit_velocity>
+            <avg_exit_velocity>90.8</avg_exit_velocity>
+            <distance>409</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <caught_stealing_pct>25</caught_stealing_pct>
+            <pop_time>2.01</pop_time>
+            <framing_runs>3</framing_runs>
+        </defensa>
     </jugador>
 </top_infielders>

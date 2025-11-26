@@ -1,73 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE top_lanzadores[
+    <!ELEMENT top_lanzadores (lanzador*)>
+    <!ELEMENT lanzador (nombre, equipo, era, estadisticas_tiro)>
+    <!ATTLIST lanzador rol CDATA #REQUIRED>
+
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT equipo (#PCDATA)>
+    <!ELEMENT era (#PCDATA)>
+    
+    <!ELEMENT estadisticas_tiro (strikeouts, base_por_bolas)>
+    <!ELEMENT strikeouts (#PCDATA)>
+    <!ELEMENT base_por_bolas (#PCDATA)>
+
+]>
+
 <top_lanzadores>
-    <lanzador>
+    <lanzador rol="Starter">
         <nombre>Garrett Crochet</nombre>
         <equipo>BOS</equipo>
         <era>2.59</era>
-        <strikeouts>255</strikeouts>
-        <base_por_bolas>46</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>255</strikeouts>
+            <base_por_bolas>46</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Reliever">
         <nombre>Tarik Skubal</nombre>
         <equipo>DET</equipo>
         <era>2.21</era>
-        <strikeouts>241</strikeouts>
-        <base_por_bolas>33</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>241</strikeouts>
+            <base_por_bolas>33</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Closer">
         <nombre>Logan Webb</nombre>
         <equipo>SF</equipo>
         <era>3.22</era>
-        <strikeouts>224</strikeouts>
-        <base_por_bolas>46</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>224</strikeouts>
+            <base_por_bolas>46</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Starter">
         <nombre>Jesús Luzardo</nombre>
         <equipo>PHI</equipo>
         <era>3.92</era>
-        <strikeouts>216</strikeouts>
-        <base_por_bolas>57</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>216</strikeouts>
+            <base_por_bolas>57</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Starter">
         <nombre>Paul Skenes</nombre>
         <equipo>PIT</equipo>
         <era>1.97</era>
-        <strikeouts>216</strikeouts>
-        <base_por_bolas>42</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>216</strikeouts>
+            <base_por_bolas>42</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Reliever">
         <nombre>Dylan Cease</nombre>
         <equipo>SD</equipo>
         <era>4.55</era>
-        <strikeouts>215</strikeouts>
-        <base_por_bolas>71</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>215</strikeouts>
+            <base_por_bolas>71</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Reliever">
         <nombre>Cristopher Sánchez</nombre>
         <equipo>PHI</equipo>
         <era>2.50</era>
-        <strikeouts>212</strikeouts>
-        <base_por_bolas>44</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>212</strikeouts>
+            <base_por_bolas>44</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Closer">
         <nombre>Hunter Brown</nombre>
         <equipo>HOU</equipo>
         <era>2.43</era>
-        <strikeouts>206</strikeouts>
-        <base_por_bolas>57</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>206</strikeouts>
+            <base_por_bolas>57</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Starter">
         <nombre>Freddy Peralta</nombre>
         <equipo>MIL</equipo>
         <era>2.70</era>
-        <strikeouts>204</strikeouts>
-        <base_por_bolas>66</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>204</strikeouts>
+            <base_por_bolas>66</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
-    <lanzador>
+
+    <lanzador rol="Closer">
         <nombre>Carlos Rodón</nombre>
         <equipo>NYY</equipo>
         <era>3.09</era>
-        <strikeouts>203</strikeouts>
-        <base_por_bolas>73</base_por_bolas>
+        <estadisticas_tiro>
+            <strikeouts>203</strikeouts>
+            <base_por_bolas>73</base_por_bolas>
+        </estadisticas_tiro>
     </lanzador>
 </top_lanzadores>
+

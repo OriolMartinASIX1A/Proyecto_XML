@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="top_outfielders">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="jugador" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="equipo" type="xs:string"/>
+                            <xs:element name="estadisticas_bateo">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="max_exit_velocity" type="xs:decimal"/>
+                                        <xs:element name="avg_exit_velocity" type="xs:decimal"/>
+                                        <xs:element name="distance" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="defensa">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="oaa" type="xs:integer"/>
+                                        <xs:element name="outfield_jump" type="xs:decimal"/>
+                                        <xs:element name="arm_strength" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="posicion" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

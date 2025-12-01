@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- Elemento raíz -->
+    <xs:element name="top_infielders">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="jugador" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="equipo" type="xs:string"/>
+                            <xs:element name="estadisticas_bateo">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="max_exit_velocity" type="xs:decimal"/>
+                                        <xs:element name="avg_exit_velocity" type="xs:decimal"/>
+                                        <xs:element name="distance" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="defensa">
+                                <xs:complexType>
+                                    <xs:choice>
+                                        <xs:sequence>
+                                            <xs:element name="oaa" type="xs:integer"/>
+                                            <xs:element name="arm_strength" type="xs:integer"/>
+                                            <xs:element name="double_play_pct" type="xs:integer"/>
+                                        </xs:sequence>
+                                        <xs:sequence>
+                                            <xs:element name="caught_stealing_pct" type="xs:integer"/>
+                                            <xs:element name="pop_time" type="xs:decimal"/>
+                                            <xs:element name="framing_runs" type="xs:integer"/>
+                                        </xs:sequence>
+                                    </xs:choice>
+                                    <xs:attribute name="tipo" use="required">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:enumeration value="infielder"/>
+                                                <xs:enumeration value="catcher"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
+
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="posicion" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

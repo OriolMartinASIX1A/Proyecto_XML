@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE top_bateadores[
+    <!ELEMENT top_bateadores (bateador*)>
+    <!ELEMENT bateador (nombre, equipo, estadisticas_bateo, estadisticas_carrera)>
+    <!ATTLIST bateador turno CDATA #REQUIRED>
+
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT equipo (#PCDATA)>
+
+    <!ELEMENT estadisticas_bateo (hits, dobles, triples, hr)>
+    <!ELEMENT hits (#PCDATA)>
+    <!ELEMENT dobles (#PCDATA)>
+    <!ELEMENT triples (#PCDATA)>
+    <!ELEMENT hr (#PCDATA)>
+
+    <!ELEMENT estadisticas_carrera (carreras, avg)>
+    <!ELEMENT carreras (#PCDATA)>
+    <!ELEMENT avg (#PCDATA)>
+]>
+
+<top_bateadores>
+    <bateador turno="5-6">
+        <nombre>Cal Raleigh</nombre>
+        <equipo>Seattle Mariners</equipo>
+        <estadisticas_bateo>
+            <hits>110</hits>
+            <dobles>0</dobles>
+            <triples>60</triples>
+            <hr>24</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>147</carreras>
+            <avg>.247</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="1-2">
+        <nombre>Kyle Schwarber</nombre>
+        <equipo>Philadelphia Phillies</equipo>
+        <estadisticas_bateo>
+            <hits>111</hits>
+            <dobles>2</dobles>
+            <triples>56</triples>
+            <hr>23</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>145</carreras>
+            <avg>.240</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="2-3">
+        <nombre>Shohei Ohtani</nombre>
+        <equipo>Los Angeles Dodgers</equipo>
+        <estadisticas_bateo>
+            <hits>146</hits>
+            <dobles>9</dobles>
+            <triples>55</triples>
+            <hr>25</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>172</carreras>
+            <avg>.282</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="2-3">
+        <nombre>Aaron Judge</nombre>
+        <equipo>New York Yankees</equipo>
+        <estadisticas_bateo>
+            <hits>137</hits>
+            <dobles>2</dobles>
+            <triples>53</triples>
+            <hr>30</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>179</carreras>
+            <avg>.331</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="3-4">
+        <nombre>Pete Alonso</nombre>
+        <equipo>New York Mets</equipo>
+        <estadisticas_bateo>
+            <hits>87</hits>
+            <dobles>1</dobles>
+            <triples>38</triples>
+            <hr>41</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>170</carreras>
+            <avg>.272</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="1-3">
+        <nombre>Riley Greene</nombre>
+        <equipo>Detroit Tigers</equipo>
+        <estadisticas_bateo>
+            <hits>84</hits>
+            <dobles>1</dobles>
+            <triples>36</triples>
+            <hr>31</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>155</carreras>
+            <avg>.258</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="1-2">
+        <nombre>Juan Soto</nombre>
+        <equipo>New York Mets</equipo>
+        <estadisticas_bateo>
+            <hits>120</hits>
+            <dobles>1</dobles>
+            <triples>43</triples>
+            <hr>20</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>152</carreras>
+            <avg>.263</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="5-7">
+        <nombre>Eugenio Suárez</nombre>
+        <equipo>Seattle Mariners</equipo>
+        <estadisticas_bateo>
+            <hits>91</hits>
+            <dobles>0</dobles>
+            <triples>49</triples>
+            <hr>28</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>134</carreras>
+            <avg>.228</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="5-7">
+        <nombre>Junior Caminero</nombre>
+        <equipo>Tampa Bay Rays</equipo>
+        <estadisticas_bateo>
+            <hits>93</hits>
+            <dobles>0</dobles>
+            <triples>45</triples>
+            <hr>28</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>159</carreras>
+            <avg>.264</avg>
+        </estadisticas_carrera>
+    </bateador>
+
+    <bateador turno="6-8">
+        <nombre>Jo Adell</nombre>
+        <equipo>Los Angeles Angels</equipo>
+        <estadisticas_bateo>
+            <hits>63</hits>
+            <dobles>1</dobles>
+            <triples>37</triples>
+            <hr>18</hr>
+        </estadisticas_bateo>
+        <estadisticas_carrera>
+            <carreras>124</carreras>
+            <avg>.236</avg>
+        </estadisticas_carrera>
+    </bateador>
+</top_bateadores>

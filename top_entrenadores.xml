@@ -6,85 +6,82 @@
     <!ELEMENT nombre (#PCDATA)>
 
     <!ELEMENT equipo (#PCDATA)>
-    <!ATTLIST equipo activo (true|false) #REQUIRED>
+    <!ATTLIST equipo activo (si|no) #REQUIRED>
 
     <!ELEMENT experiencia (#PCDATA)>
     <!ELEMENT victorias (#PCDATA)>
     <!ELEMENT derrotas (#PCDATA)>  
-    
 ]>
-
 
 <top_entrenadores>
     <entrenador>
         <nombre>Torey Lovullo</nombre>
-        <equipo activo="true">Arizona Diamondbacks</equipo>
+        <equipo activo="si">Arizona Diamondbacks</equipo>
         <experiencia>5</experiencia>
         <victorias>112</victorias>
         <derrotas>102</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Brian Snitker</nombre>
-        <equipo activo="true">Atlanta Braves</equipo>
+        <equipo activo="si">Atlanta Braves</equipo>
         <experiencia>9</experiencia>
         <victorias>112</victorias>
         <derrotas>98</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Alex Cora</nombre>
-        <equipo activo="true">Baltimore Orioles</equipo>
+        <equipo activo="si">Baltimore Orioles</equipo>
         <experiencia>7</experiencia>
         <victorias>112</victorias>
         <derrotas>98</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Craig Counsell</nombre>
-        <equipo activo="true">Boston Red Sox</equipo>
+        <equipo activo="si">Boston Red Sox</equipo>
         <experiencia>10</experiencia>
         <victorias>51</victorias>
         <derrotas>57</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Bud Black</nombre>
-        <equipo activo="true">Colorado Rockies</equipo>
+        <equipo activo="si">Colorado Rockies</equipo>
         <experiencia>17</experiencia>
         <victorias>76</victorias>
         <derrotas>138</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Dave Roberts</nombre>
-        <equipo activo="true">Los Angeles Angels</equipo>
+        <equipo activo="si">Los Angeles Angels</equipo>
         <experiencia>9</experiencia>
         <victorias>63</victorias>
         <derrotas>44</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Skip Schumaker</nombre>
-        <equipo activo="true">Los Angeles Dodgers</equipo>
+        <equipo activo="si">Los Angeles Dodgers</equipo>
         <experiencia>2</experiencia>
         <victorias>39</victorias>
         <derrotas>67</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Aaron Boone</nombre>
-        <equipo activo="true">New York Yankees</equipo>
+        <equipo activo="si">New York Yankees</equipo>
         <experiencia>7</experiencia>
         <victorias>126</victorias>
         <derrotas>90</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Mark Kotsay</nombre>
-        <equipo activo="false"></equipo>
+        <equipo activo="no"></equipo>
         <experiencia>3</experiencia>
         <victorias>88</victorias>
         <derrotas>128</derrotas>
     </entrenador>
     <entrenador>
         <nombre>Mike Shildt</nombre>
-        <equipo activo="true">San Diego Padres</equipo>
+        <equipo activo="si">San Diego Padres</equipo>
         <experiencia>8</experiencia>
         <victorias>114</victorias>
         <derrotas>102</derrotas>
     </entrenador>
 </top_entrenadores>
-

@@ -18,7 +18,7 @@
 <top_lanzadores>
     <lanzador rol="Starter">
         <nombre>Garrett Crochet</nombre>
-        <equipo>BOS</equipo>
+        <equipo>Boston Red Sox</equipo>
         <era>2.59</era>
         <estadisticas_tiro>
             <strikeouts>255</strikeouts>
@@ -28,7 +28,7 @@
 
     <lanzador rol="Reliever">
         <nombre>Tarik Skubal</nombre>
-        <equipo>DET</equipo>
+        <equipo>Detroit Tigers</equipo>
         <era>2.21</era>
         <estadisticas_tiro>
             <strikeouts>241</strikeouts>
@@ -38,7 +38,7 @@
 
     <lanzador rol="Closer">
         <nombre>Logan Webb</nombre>
-        <equipo>SF</equipo>
+        <equipo>San Francisco Giants</equipo>
         <era>3.22</era>
         <estadisticas_tiro>
             <strikeouts>224</strikeouts>
@@ -48,7 +48,7 @@
 
     <lanzador rol="Starter">
         <nombre>Jesús Luzardo</nombre>
-        <equipo>PHI</equipo>
+        <equipo>Philadelphia Phillies</equipo>
         <era>3.92</era>
         <estadisticas_tiro>
             <strikeouts>216</strikeouts>
@@ -58,7 +58,7 @@
 
     <lanzador rol="Starter">
         <nombre>Paul Skenes</nombre>
-        <equipo>PIT</equipo>
+        <equipo>Pittsburgh Pirates</equipo>
         <era>1.97</era>
         <estadisticas_tiro>
             <strikeouts>216</strikeouts>
@@ -68,7 +68,7 @@
 
     <lanzador rol="Reliever">
         <nombre>Dylan Cease</nombre>
-        <equipo>SD</equipo>
+        <equipo>San Diego Padres</equipo>
         <era>4.55</era>
         <estadisticas_tiro>
             <strikeouts>215</strikeouts>
@@ -78,7 +78,7 @@
 
     <lanzador rol="Reliever">
         <nombre>Cristopher Sánchez</nombre>
-        <equipo>PHI</equipo>
+        <equipo>Philadelphia Phillies</equipo>
         <era>2.50</era>
         <estadisticas_tiro>
             <strikeouts>212</strikeouts>
@@ -88,7 +88,7 @@
 
     <lanzador rol="Closer">
         <nombre>Hunter Brown</nombre>
-        <equipo>HOU</equipo>
+        <equipo>Houston Astros</equipo>
         <era>2.43</era>
         <estadisticas_tiro>
             <strikeouts>206</strikeouts>
@@ -98,7 +98,7 @@
 
     <lanzador rol="Starter">
         <nombre>Freddy Peralta</nombre>
-        <equipo>MIL</equipo>
+        <equipo>Milwaukee Brewers</equipo>
         <era>2.70</era>
         <estadisticas_tiro>
             <strikeouts>204</strikeouts>
@@ -108,7 +108,7 @@
 
     <lanzador rol="Closer">
         <nombre>Carlos Rodón</nombre>
-        <equipo>NYY</equipo>
+        <equipo>New York Yankees</equipo>
         <era>3.09</era>
         <estadisticas_tiro>
             <strikeouts>203</strikeouts>
@@ -116,4 +116,3 @@
         </estadisticas_tiro>
     </lanzador>
 </top_lanzadores>
-

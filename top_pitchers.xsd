@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+    <xs:element name="top_lanzadores">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="lanzador" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="equipo" type="xs:string"/>
+                            <xs:element name="era" type="xs:decimal"/>
+                            <xs:element name="estadisticas_tiro">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="strikeouts" type="xs:integer"/>
+                                        <xs:element name="base_por_bolas" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="rol" use="required">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="Starter"/>
+                                    <xs:enumeration value="Reliever"/>
+                                    <xs:enumeration value="Closer"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

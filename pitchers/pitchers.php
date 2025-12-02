@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
 
-$xmlFile = 'top_lanzadores.xml';
+$xmlFile = 'top_pitchers.xml';
 $message = "";
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {

@@ -10,5 +10,5 @@
     <!ELEMENT estadisticas_tiro (strikeouts, base_por_bolas)>
     <!ELEMENT strikeouts (#PCDATA)>
     <!ELEMENT base_por_bolas (#PCDATA)>
-
+    
 ]>

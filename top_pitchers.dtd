@@ -1,0 +1,14 @@
+<!DOCTYPE top_lanzadores[
+    <!ELEMENT top_lanzadores (lanzador*)>
+    <!ELEMENT lanzador (nombre, equipo, era, estadisticas_tiro)>
+    <!ATTLIST lanzador rol CDATA #REQUIRED>
+
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT equipo (#PCDATA)>
+    <!ELEMENT era (#PCDATA)>
+    
+    <!ELEMENT estadisticas_tiro (strikeouts, base_por_bolas)>
+    <!ELEMENT strikeouts (#PCDATA)>
+    <!ELEMENT base_por_bolas (#PCDATA)>
+
+]>

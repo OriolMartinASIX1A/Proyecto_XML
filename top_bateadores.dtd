@@ -1,0 +1,19 @@
+<!DOCTYPE top_bateadores[
+    <!ELEMENT top_bateadores (bateador*)>
+    <!ELEMENT bateador (nombre, equipo, estadisticas_bateo, estadisticas_carrera)>
+    <!ATTLIST bateador turno CDATA #REQUIRED>
+
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT equipo (#PCDATA)>
+
+    <!ELEMENT estadisticas_bateo (hits, dobles, triples, hr)>
+    <!ELEMENT hits (#PCDATA)>
+    <!ELEMENT dobles (#PCDATA)>
+    <!ELEMENT triples (#PCDATA)>
+    <!ELEMENT hr (#PCDATA)>
+
+    <!ELEMENT estadisticas_carrera (carreras, avg)>
+    <!ELEMENT carreras (#PCDATA)>
+    <!ELEMENT avg (#PCDATA)>
+
+]>

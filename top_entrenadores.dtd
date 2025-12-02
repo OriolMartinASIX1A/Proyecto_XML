@@ -1,0 +1,13 @@
+<!DOCTYPE top_entrenadores[
+    <!ELEMENT top_entrenadores (entrenador*)>
+    <!ELEMENT entrenador (nombre, equipo?, experiencia, victorias, derrotas)>
+
+    <!ELEMENT nombre (#PCDATA)>
+
+    <!ELEMENT equipo (#PCDATA)>
+    <!ATTLIST equipo activo (si|no) #REQUIRED>
+
+    <!ELEMENT experiencia (#PCDATA)>
+    <!ELEMENT victorias (#PCDATA)>
+    <!ELEMENT derrotas (#PCDATA)>  
+]>

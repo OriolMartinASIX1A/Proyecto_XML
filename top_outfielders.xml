@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE top_outfielders[
-    <!ELEMENT top_outfielders (jugador*)>
-    <!ELEMENT jugador (nombre, equipo, estadisticas_bateo, defensa)>
-    <!ATTLIST jugador posicion CDATA #REQUIRED>
 
-    <!ELEMENT nombre (#PCDATA)>
-    <!ELEMENT equipo (#PCDATA)>
-
-    <!ELEMENT estadisticas_bateo (max_exit_velocity, avg_exit_velocity, distance)>
-    <!ELEMENT max_exit_velocity (#PCDATA)>
-    <!ELEMENT avg_exit_velocity (#PCDATA)>
-    <!ELEMENT distance (#PCDATA)>
-
-    <!ELEMENT defensa (oaa, outfield_jump, arm_strength )>
-
-    <!ELEMENT oaa (#PCDATA)>
-    <!ELEMENT outfield_jump (#PCDATA)>
-    <!ELEMENT arm_strength (#PCDATA)>    
-    
-]>
 
 <top_outfielders>
     <jugador posicion="LF">

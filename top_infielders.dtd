@@ -1,0 +1,24 @@
+<!DOCTYPE top_infielders[
+    <!ELEMENT top_infielders (jugador*)>
+    <!ELEMENT jugador (nombre, equipo, estadisticas_bateo, defensa)>
+    <!ATTLIST jugador posicion CDATA #REQUIRED>
+
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT equipo (#PCDATA)>
+
+    <!ELEMENT estadisticas_bateo (max_exit_velocity, avg_exit_velocity, distance)>
+    <!ELEMENT max_exit_velocity (#PCDATA)>
+    <!ELEMENT avg_exit_velocity (#PCDATA)>
+    <!ELEMENT distance (#PCDATA)>
+
+    <!ELEMENT defensa (oaa?, arm_strength?, double_play_pct?, caught_stealing_pct?, pop_time?, framing_runs?)>
+    <!ATTLIST defensa tipo (infielder|catcher) #REQUIRED>
+
+    <!ELEMENT oaa (#PCDATA)>
+    <!ELEMENT arm_strength (#PCDATA)>    
+    <!ELEMENT double_play_pct (#PCDATA)>
+    
+    <!ELEMENT caught_stealing_pct (#PCDATA)>
+    <!ELEMENT pop_time (#PCDATA)>
+    <!ELEMENT framing_runs (#PCDATA)>
+]>

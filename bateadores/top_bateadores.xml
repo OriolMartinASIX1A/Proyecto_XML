@@ -3,7 +3,7 @@
 <top_bateadores>
     <bateador turno="5-6">
         <nombre>Cal Raleigh</nombre>
-        <equipo>SEA</equipo>
+        <equipo>Seattle Mariners</equipo>
         <estadisticas_bateo>
             <hits>110</hits>
             <dobles>0</dobles>
@@ -18,7 +18,7 @@
 
     <bateador turno="1-2">
         <nombre>Kyle Schwarber</nombre>
-        <equipo>PHI</equipo>
+        <equipo>Philadelphia Phillies</equipo>
         <estadisticas_bateo>
             <hits>111</hits>
             <dobles>2</dobles>
@@ -33,7 +33,7 @@
 
     <bateador turno="2-3">
         <nombre>Shohei Ohtani</nombre>
-        <equipo>LAD</equipo>
+        <equipo>Los Angeles Dodgers</equipo>
         <estadisticas_bateo>
             <hits>146</hits>
             <dobles>9</dobles>
@@ -48,7 +48,7 @@
 
     <bateador turno="2-3">
         <nombre>Aaron Judge</nombre>
-        <equipo>NYY</equipo>
+        <equipo>New York Yankees</equipo>
         <estadisticas_bateo>
             <hits>137</hits>
             <dobles>2</dobles>
@@ -63,7 +63,7 @@
 
     <bateador turno="3-4">
         <nombre>Pete Alonso</nombre>
-        <equipo>NYM</equipo>
+        <equipo>New York Mets</equipo>
         <estadisticas_bateo>
             <hits>87</hits>
             <dobles>1</dobles>
@@ -78,7 +78,7 @@
 
     <bateador turno="1-3">
         <nombre>Riley Greene</nombre>
-        <equipo>DET</equipo>
+        <equipo>Detroit Tigers</equipo>
         <estadisticas_bateo>
             <hits>84</hits>
             <dobles>1</dobles>
@@ -93,7 +93,7 @@
 
     <bateador turno="1-2">
         <nombre>Juan Soto</nombre>
-        <equipo>NYM</equipo>
+        <equipo>New York Mets</equipo>
         <estadisticas_bateo>
             <hits>120</hits>
             <dobles>1</dobles>
@@ -108,7 +108,7 @@
 
     <bateador turno="5-7">
         <nombre>Eugenio Suárez</nombre>
-        <equipo>SEA</equipo>
+        <equipo>Seattle Mariners</equipo>
         <estadisticas_bateo>
             <hits>91</hits>
             <dobles>0</dobles>
@@ -123,7 +123,7 @@
 
     <bateador turno="5-7">
         <nombre>Junior Caminero</nombre>
-        <equipo>TB</equipo>
+        <equipo>Tampa Bay Rays</equipo>
         <estadisticas_bateo>
             <hits>93</hits>
             <dobles>0</dobles>
@@ -138,7 +138,7 @@
 
     <bateador turno="6-8">
         <nombre>Jo Adell</nombre>
-        <equipo>LAA</equipo>
+        <equipo>Los Angeles Angels</equipo>
         <estadisticas_bateo>
             <hits>63</hits>
             <dobles>1</dobles>
@@ -151,4 +151,3 @@
         </estadisticas_carrera>
     </bateador>
 </top_bateadores>
-

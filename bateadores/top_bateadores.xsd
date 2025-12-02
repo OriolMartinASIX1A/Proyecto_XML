@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="top_bateadores">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="bateador" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="equipo" type="xs:string"/>
+                            <xs:element name="estadisticas_bateo">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="hits" type="xs:integer"/>
+                                        <xs:element name="dobles" type="xs:integer"/>
+                                        <xs:element name="triples" type="xs:integer"/>
+                                        <xs:element name="hr" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="estadisticas_carrera">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="carreras" type="xs:integer"/>
+                                        <xs:element name="avg" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="turno" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

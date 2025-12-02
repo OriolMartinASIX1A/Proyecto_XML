@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
 <top_outfielders>
+
     <jugador posicion="LF">
         <nombre>Kyle Stowers</nombre>
         <equipo>Miami Marlins</equipo>
@@ -47,6 +47,109 @@
         </defensa>
     </jugador>
 
-   
-</top_outfielders>
+    <jugador posicion="CF">
+        <nombre>Jo Adell</nombre>
+        <equipo>Los Angeles Angels</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>115.7</max_exit_velocity>
+            <avg_exit_velocity>91.7</avg_exit_velocity>
+            <distance>411</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>0</oaa>
+            <outfield_jump>-1.2</outfield_jump>
+            <arm_strength>94</arm_strength>
+        </defensa>
+    </jugador>
 
+    <jugador posicion="CF">
+        <nombre>Byron Buxton</nombre>
+        <equipo>Minnesota Twins</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>114.0</max_exit_velocity>
+            <avg_exit_velocity>92.5</avg_exit_velocity>
+            <distance>406</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>6</oaa>
+            <outfield_jump>2.1</outfield_jump>
+            <arm_strength>92</arm_strength>
+        </defensa>
+    </jugador>
+
+    <jugador posicion="RF">
+        <nombre>Oneil Cruz</nombre>
+        <equipo>Pittsburgh Pirates</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>122.9</max_exit_velocity>
+            <avg_exit_velocity>95.8</avg_exit_velocity>
+            <distance>410</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>-1</oaa>
+            <outfield_jump>-0.4</outfield_jump>
+            <arm_strength>97</arm_strength>
+        </defensa>
+    </jugador>
+
+    <jugador posicion="RF">
+        <nombre>Aaron Judge</nombre>
+        <equipo>New York Yankees</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>118.1</max_exit_velocity>
+            <avg_exit_velocity>95.4</avg_exit_velocity>
+            <distance>408</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>7</oaa>
+            <outfield_jump>2.4</outfield_jump>
+            <arm_strength>90</arm_strength>
+        </defensa>
+    </jugador>
+
+    <jugador posicion="LF">
+        <nombre>Juan Soto</nombre>
+        <equipo>New York Mets</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>115.0</max_exit_velocity>
+            <avg_exit_velocity>93.8</avg_exit_velocity>
+            <distance>400</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>-4</oaa>
+            <outfield_jump>-1.8</outfield_jump>
+            <arm_strength>88</arm_strength>
+        </defensa>
+    </jugador>
+
+    <jugador posicion="CF">
+        <nombre>Mickey Moniak</nombre>
+        <equipo>Colorado Rockies</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>111.8</max_exit_velocity>
+            <avg_exit_velocity>89.7</avg_exit_velocity>
+            <distance>411</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>-3</oaa>
+            <outfield_jump>-0.9</outfield_jump>
+            <arm_strength>86</arm_strength>
+        </defensa>
+    </jugador>
+
+    <jugador posicion="CF">
+        <nombre>Corbin Carroll</nombre>
+        <equipo>Arizona Diamondbacks</equipo>
+        <estadisticas_bateo>
+            <max_exit_velocity>115.8</max_exit_velocity>
+            <avg_exit_velocity>92.1</avg_exit_velocity>
+            <distance>405</distance>
+        </estadisticas_bateo>
+        <defensa>
+            <oaa>5</oaa>
+            <outfield_jump>2.3</outfield_jump>
+            <arm_strength>89</arm_strength>
+        </defensa>
+    </jugador>
+
+</top_outfielders>
